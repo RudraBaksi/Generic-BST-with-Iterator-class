@@ -6,4 +6,4 @@ client1.cpp: contains class declaration with primitive datatype and less predica
 client2.cpp: contains class declaration with user defined datatype and greater predicate along with functions.
 client3.cpp: contains class declaration with user defined datatype and less predicate along with functions.
 
-To execute type the following command: g++ -std=c++11 objectfilename clentfile.cpp bstree.cpp
+To execute type the following command: g++ -std=c++11 -o objectfilename clentfile.cpp bstree.cpp
