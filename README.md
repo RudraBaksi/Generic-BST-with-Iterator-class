@@ -4,6 +4,7 @@ Here is an implementation of a generic BST which stores generic key and value da
 A short description about all the files is given as folows:-
 bstree.cpp: contains implementation of BSTree class, 
 bstree.hpp: contains interface of BSTree class, 
+student.h : contains user defined student class,
 client1.cpp: contains class declaration with primitive datatype and less predicate along with functions, 
 client2.cpp: contains class declaration with user defined datatype and greater predicate along with functions, 
 client3.cpp: contains class declaration with user defined datatype and less predicate along with functions. 
